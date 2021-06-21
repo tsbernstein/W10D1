@@ -1,0 +1,14 @@
+.board{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.tile {
+    display: flex;
+    height: 30px;
+    width: 30px;
+    background-color: ivory;
+    border: solid black;
+    border-style: outset;
+}
+
